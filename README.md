@@ -1,58 +1,32 @@
-```
-maarshir@github:~$ whoami
-```
+# Иван Капустин
 
-**Иван Капустин** — разработчик. Веб-приложения, боты, автоматизация.
+Разработчик. Веб-приложения, боты, автоматизация.
 
-```
-maarshir@github:~$ cat contact.txt
-```
+Собираю сервисы под конкретную задачу и веду проект целиком, от макета до публикации. Открыт для заказов и предложений о работе.
 
-telegram &nbsp;[`@kaioann`](https://t.me/kaioann)
-mail &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[`ivan_ius@mail.ru`](mailto:ivan_ius@mail.ru)
+**Контакты:** Телеграм [`@kaioann`](https://t.me/kaioann) · Почта [`ivan_ius@mail.ru`](mailto:ivan_ius@mail.ru)
 
 ---
 
-```
-maarshir@github:~$ ls projects/
-```
+## Проекты
 
-[`wishly/`](https://github.com/maarshir/Wishly) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;список желаний на двоих, мини-приложение в Телеграме
-`assistant/` &nbsp;&nbsp;контроль режима дня: сайт + бот, приватный репозиторий
+**[Wishly](https://github.com/maarshir/Wishly)**
+Приложение в Телеграме, чтобы два человека вели общий список желаний: подарки, места и рестораны с фото, ценами и уровнем «хочу». Данные хранятся в общей базе и видны обоим сразу.
+`javascript` `supabase` `tailwind`
 
-```
-maarshir@github:~$ cat projects/wishly/stack.txt
-```
-
-`javascript`  `supabase`  `tailwind`
-
-```
-maarshir@github:~$ cat projects/assistant/stack.txt
-```
-
-`python`  `fastapi`  `postgresql`
+**Личный ассистент** — код закрыт, могу показать по запросу
+Сайт и бот в Телеграме для контроля режима дня: сон, тренировки, питание, задачи и расходы в одном месте, с напоминаниями и вечерним разбором дня.
+`python` `fastapi` `postgresql`
 
 ---
 
-```
-maarshir@github:~$ cat now.txt
-```
+## Сейчас
 
 Довожу личного ассистента: умные напоминания и недельные сводки.
 
-```
-maarshir@github:~$ cat how-i-work.md
-```
+## Как я работаю
 
 1. Обсуждаем задачу и результат, к которому идём
 2. Показываю макет или черновик до того, как всё собрано
 3. Держу связь по ходу работы, без пропаданий на недели
 4. Отдаю проект с доступами и коротким описанием, что и где менять
-
----
-
-```
-maarshir@github:~$ echo $STATUS
-```
-
-Открыт для заказов и предложений о работе.
