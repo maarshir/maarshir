@@ -32,11 +32,12 @@
   <img src="https://img.shields.io/badge/CSS3-A8CBE8?style=flat&logo=css3&logoColor=4E7A9E&labelColor=EAF2F8" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-EDDCA3?style=flat&logo=javascript&logoColor=8A7433&labelColor=FAF5E6" alt="JavaScript">
   <img src="https://img.shields.io/badge/Python-B7C7E3?style=flat&logo=python&logoColor=4C6285&labelColor=EEF2F9" alt="Python">
+  <img src="https://img.shields.io/badge/FastAPI-AEDCC4?style=flat&logo=fastapi&logoColor=3E7A5B&labelColor=EDF7F1" alt="FastAPI">
+  <img src="https://img.shields.io/badge/PostgreSQL-B7C7E3?style=flat&logo=postgresql&logoColor=4C6285&labelColor=EEF2F9" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Tailwind-A9DCE0?style=flat&logo=tailwindcss&logoColor=3F7D82&labelColor=EAF7F8" alt="Tailwind">
   <img src="https://img.shields.io/badge/Supabase-AEDCC4?style=flat&logo=supabase&logoColor=3E7A5B&labelColor=EDF7F1" alt="Supabase">
   <img src="https://img.shields.io/badge/Telegram_Bots-A8CBE8?style=flat&logo=telegram&logoColor=4E7A9E&labelColor=EAF2F8" alt="Telegram Bots">
   <img src="https://img.shields.io/badge/Git-E8BFB4?style=flat&logo=git&logoColor=A05B48&labelColor=FBEFEC" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub_Pages-D5D2E0?style=flat&logo=githubpages&logoColor=5C5870&labelColor=F2F1F6" alt="GitHub Pages">
 </p>
 
 <br>
@@ -46,46 +47,24 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>Свадебный сайт <code>egor-inga.ru</code></h4>
-      <p>Сайт-приглашение с программой дня, анимациями и музыкой. Свой домен, размещение на GitHub Pages.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML-E8C4B8?style=flat&labelColor=FBF0EC&color=E8C4B8" alt="">
-        <img src="https://img.shields.io/badge/CSS-A8CBE8?style=flat&labelColor=EAF2F8&color=A8CBE8" alt="">
-        <img src="https://img.shields.io/badge/JS-EDDCA3?style=flat&labelColor=FAF5E6&color=EDDCA3" alt="">
-      </p>
-      <a href="https://github.com/maarshir/IngaEgor">Открыть репозиторий →</a>
-    </td>
-    <td width="50%" valign="top">
       <h4>Wishly</h4>
-      <p>Приложение внутри Телеграма: общий список желаний на двоих с категориями, фото и уровнем приоритета.</p>
+      <p>Приложение внутри Телеграма: общий список желаний на двоих. Категории, фото, цены, ссылки и уровень желания, всё хранится в облачной базе и синхронизируется между устройствами.</p>
       <p>
-        <img src="https://img.shields.io/badge/JS-EDDCA3?style=flat&labelColor=FAF5E6&color=EDDCA3" alt="">
+        <img src="https://img.shields.io/badge/JavaScript-EDDCA3?style=flat&labelColor=FAF5E6&color=EDDCA3" alt="">
         <img src="https://img.shields.io/badge/Supabase-AEDCC4?style=flat&labelColor=EDF7F1&color=AEDCC4" alt="">
         <img src="https://img.shields.io/badge/Tailwind-A9DCE0?style=flat&labelColor=EAF7F8&color=A9DCE0" alt="">
       </p>
       <a href="https://github.com/maarshir/Wishly">Открыть репозиторий →</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <h4>Альтевель</h4>
-      <p>Лендинг строительной компании: каталог продукции, частые вопросы, формы заявок, адаптивная вёрстка.</p>
+      <h4>Личный ассистент</h4>
+      <p>Сайт и бот в Телеграме для контроля режима дня: сон, тренировки, питание, вода, задачи и расходы. Умные напоминания и разбор дня вечером. Общая база для сайта и бота.</p>
       <p>
-        <img src="https://img.shields.io/badge/HTML-E8C4B8?style=flat&labelColor=FBF0EC&color=E8C4B8" alt="">
-        <img src="https://img.shields.io/badge/CSS-A8CBE8?style=flat&labelColor=EAF2F8&color=A8CBE8" alt="">
-        <img src="https://img.shields.io/badge/JS-EDDCA3?style=flat&labelColor=FAF5E6&color=EDDCA3" alt="">
+        <img src="https://img.shields.io/badge/Python-B7C7E3?style=flat&labelColor=EEF2F9&color=B7C7E3" alt="">
+        <img src="https://img.shields.io/badge/FastAPI-AEDCC4?style=flat&labelColor=EDF7F1&color=AEDCC4" alt="">
+        <img src="https://img.shields.io/badge/PostgreSQL-C9B8DE?style=flat&labelColor=F1ECF7&color=C9B8DE" alt="">
       </p>
-      <a href="https://github.com/maarshir/Altevel">Открыть репозиторий →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>Wedding</h4>
-      <p>Шаблон сайта-приглашения на свадьбу с анимированным оформлением и адаптацией под телефон.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML-E8C4B8?style=flat&labelColor=FBF0EC&color=E8C4B8" alt="">
-        <img src="https://img.shields.io/badge/CSS-A8CBE8?style=flat&labelColor=EAF2F8&color=A8CBE8" alt="">
-        <img src="https://img.shields.io/badge/JS-EDDCA3?style=flat&labelColor=FAF5E6&color=EDDCA3" alt="">
-      </p>
-      <a href="https://github.com/maarshir/Wedding">Открыть репозиторий →</a>
+      <i>Личный проект, репозиторий закрыт</i>
     </td>
   </tr>
 </table>
