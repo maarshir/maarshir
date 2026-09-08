@@ -1,19 +1,21 @@
+<img src="https://capsule-render.vercel.app/api?type=soft&height=110&color=0:E7DCF3,50:D9E4F5,100:DCEFE7&section=header" width="100%" alt="">
+
 <h1 align="center">Иван Капустин</h1>
 
 <p align="center">
-  Разработчик. Веб-приложения, боты, автоматизация
+  Разработчик · Веб-приложения, боты, автоматизация
 </p>
 
 <p align="center">
   <a href="https://t.me/kaioann">
-    <img src="https://img.shields.io/badge/Telegram-@kaioann-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-%40kaioann-A8CBE8?style=flat&logo=telegram&logoColor=5B7C99&labelColor=EAF2F8" alt="Telegram">
   </a>
   <a href="mailto:ivan_ius@mail.ru">
-    <img src="https://img.shields.io/badge/Почта-ivan__ius@mail.ru-005FF9?style=for-the-badge&logo=maildotru&logoColor=white" alt="Почта">
+    <img src="https://img.shields.io/badge/Почта-ivan__ius%40mail.ru-C9B8DE?style=flat&logo=maildotru&logoColor=7A6C94&labelColor=F1ECF7" alt="Почта">
   </a>
 </p>
 
----
+<br>
 
 ### Чем занимаюсь
 
@@ -21,29 +23,90 @@
 
 Открыт для заказов и предложений о работе.
 
+<br>
+
 ### Инструменты
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
-  <img src="https://img.shields.io/badge/Telegram_Bots-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Bots">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white" alt="GitHub Pages">
+  <img src="https://img.shields.io/badge/HTML5-E8C4B8?style=flat&logo=html5&logoColor=A56A52&labelColor=FBF0EC" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-A8CBE8?style=flat&logo=css3&logoColor=4E7A9E&labelColor=EAF2F8" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-EDDCA3?style=flat&logo=javascript&logoColor=8A7433&labelColor=FAF5E6" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-B7C7E3?style=flat&logo=python&logoColor=4C6285&labelColor=EEF2F9" alt="Python">
+  <img src="https://img.shields.io/badge/Tailwind-A9DCE0?style=flat&logo=tailwindcss&logoColor=3F7D82&labelColor=EAF7F8" alt="Tailwind">
+  <img src="https://img.shields.io/badge/Supabase-AEDCC4?style=flat&logo=supabase&logoColor=3E7A5B&labelColor=EDF7F1" alt="Supabase">
+  <img src="https://img.shields.io/badge/Telegram_Bots-A8CBE8?style=flat&logo=telegram&logoColor=4E7A9E&labelColor=EAF2F8" alt="Telegram Bots">
+  <img src="https://img.shields.io/badge/Git-E8BFB4?style=flat&logo=git&logoColor=A05B48&labelColor=FBEFEC" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub_Pages-D5D2E0?style=flat&logo=githubpages&logoColor=5C5870&labelColor=F2F1F6" alt="GitHub Pages">
 </p>
+
+<br>
 
 ### Проекты
 
-| Проект | Что это | Стек |
-| --- | --- | --- |
-| **[Свадебный сайт egor-inga.ru](https://github.com/maarshir/IngaEgor)** | Сайт-приглашение с программой дня, анимациями и музыкой. Свой домен, размещение на GitHub Pages | HTML, CSS, JavaScript |
-| **[Wishly](https://github.com/maarshir/Wishly)** | Приложение внутри Телеграма: общий список желаний на двоих с категориями, фото и уровнем приоритета | JavaScript, Supabase, Tailwind |
-| **[Альтевель](https://github.com/maarshir/Altevel)** | Лендинг строительной компании: каталог продукции, частые вопросы, формы заявок, адаптивная вёрстка | HTML, CSS, JavaScript |
-| **[Wedding](https://github.com/maarshir/Wedding)** | Шаблон сайта-приглашения на свадьбу с анимированным оформлением | HTML, CSS, JavaScript |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Свадебный сайт <code>egor-inga.ru</code></h4>
+      <p>Сайт-приглашение с программой дня, анимациями и музыкой. Свой домен, размещение на GitHub Pages.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML-E8C4B8?style=flat&labelColor=FBF0EC&color=E8C4B8" alt="">
+        <img src="https://img.shields.io/badge/CSS-A8CBE8?style=flat&labelColor=EAF2F8&color=A8CBE8" alt="">
+        <img src="https://img.shields.io/badge/JS-EDDCA3?style=flat&labelColor=FAF5E6&color=EDDCA3" alt="">
+      </p>
+      <a href="https://github.com/maarshir/IngaEgor">Открыть репозиторий →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Wishly</h4>
+      <p>Приложение внутри Телеграма: общий список желаний на двоих с категориями, фото и уровнем приоритета.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JS-EDDCA3?style=flat&labelColor=FAF5E6&color=EDDCA3" alt="">
+        <img src="https://img.shields.io/badge/Supabase-AEDCC4?style=flat&labelColor=EDF7F1&color=AEDCC4" alt="">
+        <img src="https://img.shields.io/badge/Tailwind-A9DCE0?style=flat&labelColor=EAF7F8&color=A9DCE0" alt="">
+      </p>
+      <a href="https://github.com/maarshir/Wishly">Открыть репозиторий →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Альтевель</h4>
+      <p>Лендинг строительной компании: каталог продукции, частые вопросы, формы заявок, адаптивная вёрстка.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML-E8C4B8?style=flat&labelColor=FBF0EC&color=E8C4B8" alt="">
+        <img src="https://img.shields.io/badge/CSS-A8CBE8?style=flat&labelColor=EAF2F8&color=A8CBE8" alt="">
+        <img src="https://img.shields.io/badge/JS-EDDCA3?style=flat&labelColor=FAF5E6&color=EDDCA3" alt="">
+      </p>
+      <a href="https://github.com/maarshir/Altevel">Открыть репозиторий →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Wedding</h4>
+      <p>Шаблон сайта-приглашения на свадьбу с анимированным оформлением и адаптацией под телефон.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML-E8C4B8?style=flat&labelColor=FBF0EC&color=E8C4B8" alt="">
+        <img src="https://img.shields.io/badge/CSS-A8CBE8?style=flat&labelColor=EAF2F8&color=A8CBE8" alt="">
+        <img src="https://img.shields.io/badge/JS-EDDCA3?style=flat&labelColor=FAF5E6&color=EDDCA3" alt="">
+      </p>
+      <a href="https://github.com/maarshir/Wedding">Открыть репозиторий →</a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<details>
+  <summary><b>Как я работаю</b></summary>
+  <br>
+  <ul>
+    <li>Обсуждаем задачу и результат, к которому идём</li>
+    <li>Показываю макет или черновик до того, как всё собрано</li>
+    <li>Держу связь по ходу работы, без пропаданий на недели</li>
+    <li>Отдаю проект с доступами и коротким описанием, что и где менять</li>
+  </ul>
+</details>
+
+<br>
 
 ### Связаться
 
-Телеграм — [@kaioann](https://t.me/kaioann) · Почта — [ivan_ius@mail.ru](mailto:ivan_ius@mail.ru)
+Телеграм — <a href="https://t.me/kaioann">@kaioann</a> · Почта — <a href="mailto:ivan_ius@mail.ru">ivan_ius@mail.ru</a>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&height=90&color=0:DCEFE7,50:D9E4F5,100:E7DCF3&section=footer" width="100%" alt="">
