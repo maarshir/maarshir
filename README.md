@@ -8,8 +8,8 @@
 
 ## Проекты
 
-- [**promptdiff**](https://github.com/maarshir/promptdiff-): сравнивает варианты промпта на наборе задач и показывает, где они разошлись.
-- [**doc-answers**](https://github.com/maarshir/doc-answers): ответы по вашим документам со ссылкой на источник и честным отказом, если ответа нет.
+- [**promptdiff**](https://github.com/maarshir/promptdiff-): сравнивает варианты промпта на наборе задач.
+- [**doc-answers**](https://github.com/maarshir/doc-answers): ответы по вашим документам со ссылкой на источник.
 
 ## Личные проекты
 
