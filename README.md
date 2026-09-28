@@ -15,7 +15,6 @@
 
 
 - [**Ассистент**](https://github.com/maarshir/assistant): сайт и бот в Телеграме для записей дня, свободные фразы и голосовые разбирает модель.
-- [**Wishly**](https://github.com/maarshir/Wishly): общий список желаний на двоих в Телеграме.
 - [**token-counter**](https://github.com/maarshir/token-counter): токены и стоимость запросов к языковым моделям.
 
 
