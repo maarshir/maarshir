@@ -1,16 +1,23 @@
 # Иван Капустин
 
-Разработчик. Пишу ботов, веб-приложения и инструменты для работы с языковыми моделями. Ищу стажировку.
+Разработчик. Веб-приложения, боты, автоматизация. ИИ-инженерия, приложения на языковых моделях.
 
-[maarshir.github.io](https://maarshir.github.io) · Телеграм [@kaioann](https://t.me/kaioann) · [ivan_ius@mail.ru](mailto:ivan_ius@mail.ru)
+Открыт для стажировки и предложений о работе. Сайт-резюме: [maarshir.github.io](https://maarshir.github.io)
+
+Телеграм [`@kaioann`](https://t.me/kaioann), почта [`ivan_ius@mail.ru`](mailto:ivan_ius@mail.ru)
 
 ## Проекты
 
-- [promptdiff](https://github.com/maarshir/promptdiff-): сравнивает варианты промпта на одних задачах и показывает, где ответы разошлись.
-- [doc-answers](https://github.com/maarshir/doc-answers): отвечает на вопросы по вашим документам со ссылкой на источник.
-- [gost-skills](https://github.com/maarshir/gost-skills): навыки для ИИ-агентов, проверяют курсовые и отчёты по ГОСТу.
-- [token-counter](https://github.com/maarshir/token-counter): считает токены и стоимость запросов к моделям.
+- [**promptdiff**](https://github.com/maarshir/promptdiff-): сравнивает варианты промпта на наборе задач и показывает, где они разошлись.
+- [**doc-answers**](https://github.com/maarshir/doc-answers): ответы по вашим документам со ссылкой на источник и честным отказом, если ответа нет.
+
+## Личные проекты
+
+
+- [**Ассистент**](https://github.com/maarshir/assistant): сайт и бот в Телеграме для записей дня, свободные фразы и голосовые разбирает модель.
+- [**token-counter**](https://github.com/maarshir/token-counter): токены и стоимость запросов к языковым моделям.
+
 
 ## Стек
 
-Python, FastAPI, PostgreSQL, JavaScript. Телеграм-боты, API языковых моделей.
+Python, FastAPI, SQLAlchemy, PostgreSQL, pytest, GitHub Actions. JavaScript, Supabase, Tailwind. Боты и мини-приложения в Телеграме, API языковых моделей. Деплой на Vercel и обычных серверах.
