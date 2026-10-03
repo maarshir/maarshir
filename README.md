@@ -2,7 +2,7 @@
 
 Разработчик. Веб-приложения, боты, автоматизация. ИИ-инженерия, приложения на языковых моделях.
 
-Открыт для стажировки и предложений о работе. Сайт-резюме: [maarshir.github.io](https://maarshir.github.io)
+Открыт для стажировки и предложений о работе. Сайт-резюме: [maarshir.github.io](https://maarshir.github.io), резюме PDF: [скачать](https://maarshir.github.io/resume.pdf)
 
 Телеграм [`@kaioann`](https://t.me/kaioann), почта [`ivan_ius@mail.ru`](mailto:ivan_ius@mail.ru)
 
@@ -17,6 +17,10 @@
 
 - [**job-radar**](https://github.com/maarshir/job-radar): собирает вакансии, нейросеть оценивает их под профиль, лучшие приходят в Телеграм.
 - [**content-factory**](https://github.com/maarshir/content-factory): новости из RSS превращаются в посты для Телеграма, редактор жмёт кнопку. В работе.
+
+## Личные проекты
+
+- [**tg-phone-lookup**](https://github.com/maarshir/tg-phone-lookup): бот в Телеграме, находит юзернейм по номеру телефона. Сделан для знакомой из HR, у которой был заблокирован Телеграм.
 
 ## Стек
 
